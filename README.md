@@ -19,6 +19,8 @@
   <img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
+  [![Youn's github stats](https://github-readme-stats.vercel.app/api?username=CHOISEUNGYOUN&show_icons=true&theme=tokyonight)](https://github.com/CHOISEUNGYOUN/github-readme-stats)
+
 <!--
 **CHOISEUNGYOUN/CHOISEUNGYOUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
